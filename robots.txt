@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pomodorotimer.github.io/sitemap.xml
+Sitemap: https://pomodorotimerhub.github.io/sitemap.xml
